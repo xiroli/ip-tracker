@@ -1,0 +1,34 @@
+<<<<<<< HEAD
+# Avoid accidental Sketch file upload 
+###############################################
+## Please do not remove line 5 - thanks! 🙂 ##
+###############################################
+*.sketch
+
+# Avoid accidental XD or Figma upload if you convert the design file
+#######################################################
+## Please do not remove lines 11 and 12 - thanks! 🙂 ##
+#######################################################
+*.xd
+*.fig
+node_modules
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+=======
+# Avoid accidental upload of the Sketch and Figma design files
+#####################################################
+## Please do not remove lines 5 and 6 - thanks! 🙂 ##
+#####################################################
+*.sketch
+*.fig
+
+# Avoid accidental XD upload if you convert the design file
+###############################################
+## Please do not remove line 12 - thanks! 🙂 ##
+###############################################
+*.xd
+node_modules
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+.prettierignore
+>>>>>>> 6192fe1325b300777c311a67554347e281b6f0e7
