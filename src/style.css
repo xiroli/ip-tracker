@@ -20,18 +20,14 @@
 
 
 body {
-<<<<<<< HEAD
   font-family: Rubik;
   height: 100vh;
-=======
-  font-family: Kumbh+Sans;
->>>>>>> 6192fe1325b300777c311a67554347e281b6f0e7
 }
 
 
 
 #app {
-  max-width: 1280px;
+  max-width: 1440px;
   margin: 0 auto;
   text-align: center;
   height: 100vh;
